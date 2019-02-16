@@ -12,4 +12,6 @@ DEMO ::---
  ▀▄▄▄█▀ ▀▄▄▀█   █      ▀█    ▀▄▄▀█ <<<-----like this
                        ▄▀     
  
-kjj
+by something color is not coming in demo text....
+
+
