@@ -2,7 +2,7 @@ Firt read all plz.....
 change Header of terminal....
 convert your name to designable text name........
 
-INTRUCTION::--
+INTRUCTION::-- 
 
 DEMO ::--- 
   ▄▄▄▄                             
@@ -13,5 +13,15 @@ DEMO ::---
                        ▄▀     
  
 by something color is not coming in demo text....
+some font not support....
+
+STEPS:
+
+
+step 1:- git clone https://github.com/Suraj0023/text-name.git
+step 2:- cd text-name
+step 3:- chmod +x *
+step 4:- ./surya.sh
+step 5:- follow and enjoy.....
 
 
