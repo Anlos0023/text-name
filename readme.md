@@ -24,4 +24,9 @@ step 3:- chmod +x *
 step 4:- ./surya.sh
 step 5:- follow and enjoy.....
 
+for python file...
+
+step  :- python surya.py
+
+booommmm.......
 
