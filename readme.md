@@ -18,7 +18,7 @@ some font not support....
 STEPS:
 
 
-step 1:- git clone https://github.com/Suraj0023/text-name.git
+step 1:- git clone https://github.com/Anlos0023/text-name.git
 step 2:- cd text-name
 step 3:- chmod +x *
 step 4:- ./surya.sh
